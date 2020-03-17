@@ -1,5 +1,5 @@
 
-### Session 4 ###
+## Session 4 ##
 
 1. Less than 20k Parameters
 2. 20 Epochs
@@ -7,9 +7,8 @@
 
 ## Model Summary ##
 
-----------------------------------------------------------------
-        Layer (type)               Output Shape         Param #
-================================================================
+        Layer (type)               Output Shape         Param 
+
             Conv2d-1            [-1, 8, 26, 26]              72
            Dropout-2            [-1, 8, 26, 26]               0
        BatchNorm2d-3            [-1, 8, 26, 26]              16
@@ -36,16 +35,15 @@
           Dropout-24             [-1, 16, 2, 2]               0
       BatchNorm2d-25             [-1, 16, 2, 2]              32
            Conv2d-26             [-1, 10, 2, 2]             160
-================================================================
+
 Total params: 10,216
 Trainable params: 10,216
 Non-trainable params: 0
-----------------------------------------------------------------
+
 Input size (MB): 0.00
 Forward/backward pass size (MB): 0.44
 Params size (MB): 0.04
 Estimated Total Size (MB): 0.48
-----------------------------------------------------------------
 
 
 
