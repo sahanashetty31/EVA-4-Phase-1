@@ -8,10 +8,10 @@
 3. Proper Skeleton.
 
 ### Results: ###
-1.Parameters : 194k.
+1.Parameters:194k
 2.Best Train Accuracy:99.47
 3.Best Test Accuracy:99.08
 
-### Analysis ###
+### Analysis: ###
 1. Lighter model.
 2. Slightly overfitting.
