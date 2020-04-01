@@ -15,5 +15,4 @@
  3.Best Test Accuracy: 99.08
 
 ### Analysis: ###
-1. Lighter model.
-2. Slightly overfitting.
+ Slightly overfitting.
